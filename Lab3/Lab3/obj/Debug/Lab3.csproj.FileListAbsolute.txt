@@ -1,0 +1,7 @@
+D:\01_FPT Polytechnic\GAM109 - Lập trình C# cho unity\Lab\Lab3\Lab3\bin\Debug\Lab3.exe.config
+D:\01_FPT Polytechnic\GAM109 - Lập trình C# cho unity\Lab\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\01_FPT Polytechnic\GAM109 - Lập trình C# cho unity\Lab\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\01_FPT Polytechnic\GAM109 - Lập trình C# cho unity\Lab\Lab3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+D:\01_FPT Polytechnic\GAM109 - Lập trình C# cho unity\Lab\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\01_FPT Polytechnic\GAM109 - Lập trình C# cho unity\Lab\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\01_FPT Polytechnic\GAM109 - Lập trình C# cho unity\Lab\Lab3\Lab3\obj\Debug\Lab3.pdb
