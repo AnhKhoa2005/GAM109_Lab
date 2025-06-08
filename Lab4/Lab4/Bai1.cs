@@ -14,7 +14,8 @@ namespace Lab4
 
             Console.Write("Cac so chan:");
             numbers
-                .FindAll(x => x % 2 == 0)
+                .Where(x => x % 2 == 0)
+                .ToList()
                 .ForEach(x => Console.Write(" " + x));
         }
     }

@@ -1,0 +1,7 @@
+D:\01_FPT Polytechnic\GAM109 - Lập trình C# cho unity\Lab\Lab5\Lab5\bin\Debug\Lab5.exe.config
+D:\01_FPT Polytechnic\GAM109 - Lập trình C# cho unity\Lab\Lab5\Lab5\bin\Debug\Lab5.exe
+D:\01_FPT Polytechnic\GAM109 - Lập trình C# cho unity\Lab\Lab5\Lab5\bin\Debug\Lab5.pdb
+D:\01_FPT Polytechnic\GAM109 - Lập trình C# cho unity\Lab\Lab5\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+D:\01_FPT Polytechnic\GAM109 - Lập trình C# cho unity\Lab\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+D:\01_FPT Polytechnic\GAM109 - Lập trình C# cho unity\Lab\Lab5\Lab5\obj\Debug\Lab5.exe
+D:\01_FPT Polytechnic\GAM109 - Lập trình C# cho unity\Lab\Lab5\Lab5\obj\Debug\Lab5.pdb

@@ -35,7 +35,7 @@ namespace Lab3
         {
             string newPath = Path.Combine(path, "data.txt");
 
-            using (FileStream fs = new FileStream(newPath, FileMode.Create))
+            using (FileStream fs = new FileStream(newPath, FileMode.Create)) // tạo file
             {
                 using (StreamWriter sw = new StreamWriter(fs, Encoding.UTF8))
                 {
