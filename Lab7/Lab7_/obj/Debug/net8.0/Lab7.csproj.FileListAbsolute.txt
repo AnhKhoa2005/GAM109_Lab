@@ -1,0 +1,15 @@
+D:\FPTPolytechnic\GAM109 - Lập trình C# cho unity\Lab\Lab7\Lab7_\bin\Debug\net8.0\Lab7.exe
+D:\FPTPolytechnic\GAM109 - Lập trình C# cho unity\Lab\Lab7\Lab7_\bin\Debug\net8.0\Lab7.deps.json
+D:\FPTPolytechnic\GAM109 - Lập trình C# cho unity\Lab\Lab7\Lab7_\bin\Debug\net8.0\Lab7.runtimeconfig.json
+D:\FPTPolytechnic\GAM109 - Lập trình C# cho unity\Lab\Lab7\Lab7_\bin\Debug\net8.0\Lab7.dll
+D:\FPTPolytechnic\GAM109 - Lập trình C# cho unity\Lab\Lab7\Lab7_\bin\Debug\net8.0\Lab7.pdb
+D:\FPTPolytechnic\GAM109 - Lập trình C# cho unity\Lab\Lab7\Lab7_\obj\Debug\net8.0\Lab7.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTPolytechnic\GAM109 - Lập trình C# cho unity\Lab\Lab7\Lab7_\obj\Debug\net8.0\Lab7.AssemblyInfoInputs.cache
+D:\FPTPolytechnic\GAM109 - Lập trình C# cho unity\Lab\Lab7\Lab7_\obj\Debug\net8.0\Lab7.AssemblyInfo.cs
+D:\FPTPolytechnic\GAM109 - Lập trình C# cho unity\Lab\Lab7\Lab7_\obj\Debug\net8.0\Lab7.csproj.CoreCompileInputs.cache
+D:\FPTPolytechnic\GAM109 - Lập trình C# cho unity\Lab\Lab7\Lab7_\obj\Debug\net8.0\Lab7.sourcelink.json
+D:\FPTPolytechnic\GAM109 - Lập trình C# cho unity\Lab\Lab7\Lab7_\obj\Debug\net8.0\Lab7.dll
+D:\FPTPolytechnic\GAM109 - Lập trình C# cho unity\Lab\Lab7\Lab7_\obj\Debug\net8.0\refint\Lab7.dll
+D:\FPTPolytechnic\GAM109 - Lập trình C# cho unity\Lab\Lab7\Lab7_\obj\Debug\net8.0\Lab7.pdb
+D:\FPTPolytechnic\GAM109 - Lập trình C# cho unity\Lab\Lab7\Lab7_\obj\Debug\net8.0\Lab7.genruntimeconfig.cache
+D:\FPTPolytechnic\GAM109 - Lập trình C# cho unity\Lab\Lab7\Lab7_\obj\Debug\net8.0\ref\Lab7.dll

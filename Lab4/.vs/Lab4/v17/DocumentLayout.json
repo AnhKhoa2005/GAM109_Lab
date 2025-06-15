@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\01_FPT Polytechnic\\GAM109 - L\u1EADp tr\u00ECnh C# cho unity\\Lab\\Lab4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6996590-4A41-4FE4-941C-6C117E30B6F0}|Lab4\\Lab4.csproj|D:\\01_FPT Polytechnic\\GAM109 - L\u1EADp tr\u00ECnh C# cho unity\\Lab\\Lab4\\lab4\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6996590-4A41-4FE4-941C-6C117E30B6F0}|Lab4\\Lab4.csproj|D:\\01_FPT Polytechnic\\GAM109 - L\u1EADp tr\u00ECnh C# cho unity\\Lab\\Lab4\\lab4\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6996590-4A41-4FE4-941C-6C117E30B6F0}|Lab4\\Lab4.csproj|solutionrelative:lab4\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6996590-4A41-4FE4-941C-6C117E30B6F0}|Lab4\\Lab4.csproj|d:\\01_fpt polytechnic\\gam109 - l\u1EADp tr\u00ECnh c# cho unity\\lab\\lab4\\lab4\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6996590-4A41-4FE4-941C-6C117E30B6F0}|Lab4\\Lab4.csproj|solutionrelative:lab4\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6996590-4A41-4FE4-941C-6C117E30B6F0}|Lab4\\Lab4.csproj|D:\\01_FPT Polytechnic\\GAM109 - L\u1EADp tr\u00ECnh C# cho unity\\Lab\\Lab4\\lab4\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6996590-4A41-4FE4-941C-6C117E30B6F0}|Lab4\\Lab4.csproj|solutionrelative:lab4\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6996590-4A41-4FE4-941C-6C117E30B6F0}|Lab4\\Lab4.csproj|d:\\01_fpt polytechnic\\gam109 - l\u1EADp tr\u00ECnh c# cho unity\\lab\\lab4\\lab4\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6996590-4A41-4FE4-941C-6C117E30B6F0}|Lab4\\Lab4.csproj|solutionrelative:lab4\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6996590-4A41-4FE4-941C-6C117E30B6F0}|Lab4\\Lab4.csproj|D:\\01_FPT Polytechnic\\GAM109 - L\u1EADp tr\u00ECnh C# cho unity\\Lab\\Lab4\\lab4\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Bai3.cs",
               "DocumentMoniker": "D:\\01_FPT Polytechnic\\GAM109 - L\u1EADp tr\u00ECnh C# cho unity\\Lab\\Lab4\\Lab4\\Bai3.cs",
               "RelativeDocumentMoniker": "Lab4\\Bai3.cs",
               "ToolTip": "D:\\01_FPT Polytechnic\\GAM109 - L\u1EADp tr\u00ECnh C# cho unity\\Lab\\Lab4\\Lab4\\Bai3.cs",
               "RelativeToolTip": "Lab4\\Bai3.cs",
-              "ViewState": "AgIAAAsAAACy8f////8xwBUAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAA8P////8xwBwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T18:27:16.263Z",
               "EditorCaption": ""
@@ -75,26 +75,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Bai2.cs",
               "DocumentMoniker": "D:\\01_FPT Polytechnic\\GAM109 - L\u1EADp tr\u00ECnh C# cho unity\\Lab\\Lab4\\Lab4\\Bai2.cs",
               "RelativeDocumentMoniker": "Lab4\\Bai2.cs",
               "ToolTip": "D:\\01_FPT Polytechnic\\GAM109 - L\u1EADp tr\u00ECnh C# cho unity\\Lab\\Lab4\\Lab4\\Bai2.cs",
               "RelativeToolTip": "Lab4\\Bai2.cs",
-              "ViewState": "AgIAAA4AAADAbgAAAAAQwBIAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAB8bwAAAAAQwBkAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T18:06:48.738Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Bai1.cs",
               "DocumentMoniker": "D:\\01_FPT Polytechnic\\GAM109 - L\u1EADp tr\u00ECnh C# cho unity\\Lab\\Lab4\\Lab4\\Bai1.cs",
               "RelativeDocumentMoniker": "Lab4\\Bai1.cs",
               "ToolTip": "D:\\01_FPT Polytechnic\\GAM109 - L\u1EADp tr\u00ECnh C# cho unity\\Lab\\Lab4\\Lab4\\Bai1.cs",
               "RelativeToolTip": "Lab4\\Bai1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAOBxPREAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAOBxPQoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T17:57:41.25Z",
               "EditorCaption": ""
